@@ -1,0 +1,190 @@
+.Backgroundjumbo{
+  background: linear-gradient(90deg, rgba(32,99,155,1) 35%, rgba(0,212,255,1) 150%);
+  height: 280px;
+}
+.Image-Logo{
+    height: 50px;
+}
+.Card-Signin{
+height: 130px;
+}
+.Card-Signout{
+    height: 130px;
+}
+.text-card {
+  color: #D87010;
+}
+.TwoCardContainer{
+    margin-top: -300px;
+    align-items: center;
+    justify-content: center;
+}
+.TwoCardHome{
+  margin-top: 180px;
+  align-items: center;
+  justify-content: center;
+}
+.TwoCardHomeCustomer{
+  margin-top: 60px;
+  align-items: center;
+  justify-content: center;
+}
+.CardProfile {
+  margin-top: -300px;
+  align-items: center;
+  justify-content: center;
+}
+.CardTable {
+  margin-top: 80px;
+  align-items: center;
+  justify-content: center;
+}
+h1{
+color: #FEFFFF;
+}
+h5{
+  text-align: center;
+}
+
+.Home-h1{
+   font-size: 45px;
+   font-family: Roboto;
+   font-weight: bold;
+}
+
+.Paraf-p{
+font-size: 25px;
+font-family: Roboto;
+color:#FEFFFF;
+}
+
+/* Login */
+
+
+.pattern { 
+  position: relative; 
+  height: 400px;
+  background-image: linear-gradient(90deg, rgba(144,178,206,1) 35%, rgba(32,99,155,1) 150%);
+} 
+
+.pattern:before { 
+  content: ""; 
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 250px; 
+  background: url( 
+  https://media.geeksforgeeks.org/wp-content/uploads/20200326181026/wave3.png); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
+
+.patternCS { 
+  position: relative; 
+  height: 400px;
+  background: linear-gradient(90deg, rgba(32,99,155,1) 25%, rgba(216,112,16,1) 100%);
+} 
+
+.patternCS:before { 
+  content: ""; 
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 250px; 
+  background: url( 
+  https://media.geeksforgeeks.org/wp-content/uploads/20200326181026/wave3.png); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
+
+.patternSPV { 
+  position: relative; 
+  height: 400px;
+  background: linear-gradient(90deg, rgba(32,99,155,1) 25%, rgba(41,50,61,1) 100%);
+} 
+
+.patternSPV:before { 
+  content: ""; 
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 250px; 
+  background: url( 
+  https://media.geeksforgeeks.org/wp-content/uploads/20200326181026/wave3.png); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+} 
+  .ModalSignup{
+    margin-top: -80px;
+    height: 160px;
+  }  
+
+  .Image-Signout{
+    height: 400px;
+}
+
+/* Login from Sign up */
+.Image-Signin{
+  height: 320px;
+}
+
+
+.footer {
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+}
+/*Homepage CS*/
+.card{
+  margin-top: -120px;
+}
+
+.Card-Profcs{
+  height: 100px;
+}
+
+.Card-Complain{
+  height: 100px;
+}
+
+.Card-History{
+  height: 100px;
+}
+
+.Text-Format {
+  color: hsl(0, 74%, 45%);
+}
+
+  
+/*home spv*/
+.card{
+  margin-top: -120px;
+}
+
+.Card-DataCS{
+  height: 150px;
+
+  }
+.Card-AddCS{
+      height: 150px;
+  }
+.Card-His_Comp{
+    height: 150px;
+}
+h5{
+  text-align: center;
+}
+
+/*Data CS*/
+/* DataCS*/
+.th, tr {
+  text-align: center;
+  color: #20639b;
+}
+.registerMessage {
+  margin-top: 2vh;
+}
